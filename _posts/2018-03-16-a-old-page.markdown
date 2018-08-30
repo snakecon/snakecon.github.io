@@ -1,6 +1,5 @@
 ---
 layout: post
-title:  "A old page!"
 date:   2018-03-16 10:00:00 +0800
 categories: Demo
 ---
